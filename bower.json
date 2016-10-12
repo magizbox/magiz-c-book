@@ -1,10 +1,10 @@
 {
-  "name": "magiz-c-benchmark",
+  "name": "magiz-c-paper",
   "version": "1.0.0",
   "authors": [
     "Vu Anh <brother.rain.1024@gmail.com>"
   ],
-  "description": "Benchmark Component",
+  "description": "Paper Component UI",
   "keywords": [
     "component"
   ],
