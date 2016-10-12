@@ -8,7 +8,7 @@ Insert scripts and styles in `index.html`
 
 ```html
 <link rel="stylesheet" href="./src/benchmark.css">
-<script src="./src/gs.js"></script>
+<script src="./src/gspreadsheet.js"></script>
 <script src="./src/bootstrap-popup.js"></script>
 <script src="./src/benchmark.js"></script>
 ```
