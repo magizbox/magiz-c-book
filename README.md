@@ -1,6 +1,6 @@
 ## magiz-c-benchmark: Benchmark Component UI
 
-![Bower](https://img.shields.io/bower/v/paper.svg)
+![Bower](https://img.shields.io/bower/v/magiz-c-benchmark.svg)
 
 ### Usage
 
