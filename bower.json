@@ -1,10 +1,10 @@
 {
-  "name": "magiz-c-paper",
+  "name": "magiz-c-book",
   "version": "1.0.0",
   "authors": [
     "Vu Anh <brother.rain.1024@gmail.com>"
   ],
-  "description": "Paper Component UI",
+  "description": "Book Component UI",
   "keywords": [
     "component"
   ],

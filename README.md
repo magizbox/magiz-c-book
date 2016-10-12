@@ -1,11 +1,11 @@
-## magiz-c-paper : Paper Component UI
+## magiz-c-book : Book Component UI
 
-![Bower](https://img.shields.io/bower/v/magiz-c-paper.svg)
+![Bower](https://img.shields.io/bower/v/magiz-c-book.svg)
 
 ### Installation
 
 ```
-bower install magiz-c-paper
+bower install magiz-c-book
 ```
 
 ### Usage
@@ -13,18 +13,18 @@ bower install magiz-c-paper
 Insert scripts and styles in `index.html`
 
 ```html
-<link rel="stylesheet" href="./src/paper.css">
+<link rel="stylesheet" href="./src/book.css">
 
 <script src="./src/gspreadsheet.js"></script>
-<script src="./src/paper.js"></script>
+<script src="./src/book.js"></script>
 ```
 
 Add paper dom to your html
 
 ```
-<div class="papers" gid="google0spread0sheet0id"></div>
+<div class="books" gid="google0spread0sheet0id"></div>
 ```
 
 Result
 
-![](http://i.imgur.com/lwfGPQE.png)
+![](http://i.imgur.com/i8LAf9V.png)
