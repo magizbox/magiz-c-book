@@ -2,6 +2,12 @@
 
 ![Bower](https://img.shields.io/bower/v/magiz-c-benchmark.svg)
 
+### Installation
+
+```
+bower install magiz-c-benchmark
+```
+
 ### Usage
 
 Insert scripts and styles in `index.html`
